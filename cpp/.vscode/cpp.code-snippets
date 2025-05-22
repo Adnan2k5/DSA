@@ -1,0 +1,15 @@
+{
+  "main-template": {
+    "prefix": "main",
+    "scope": "cpp",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "int main(){",
+      "    $0",
+      "}"
+    ],
+    "description": "Basic C++ main template"
+  }
+}
