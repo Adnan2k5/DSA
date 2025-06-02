@@ -1,1 +1,2 @@
-2 3 5 
+Map Method: 3
+Two Pointer Approach: 3

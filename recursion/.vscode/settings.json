@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "__locale": "cpp",
+    "regex": "cpp",
+    "string": "cpp",
+    "string_view": "cpp"
+  }
+}
